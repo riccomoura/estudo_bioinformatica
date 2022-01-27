@@ -1,4 +1,4 @@
-# Estudo de caso de Bioinformática - curso expresso Alfahelix
+# Estudo de caso de Bioinformática
 
 Código
 
@@ -30,3 +30,5 @@ saida.close()
 Visualização gráfica de sequência genética utilizando python e html
 
 ![imagem](https://i.imgur.com/tsaqOdA.png)
+
+Realizado em curso expresso de visualização de dados da Alfahelix, utilizando banco de dados de genomas, python e html.
